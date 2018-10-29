@@ -1,7 +1,7 @@
 # Clemont and it's Requirements
 - Clemont is a powerful and fast bot built to work directly with Clembot.
 - Clemont offers users with private raid notifications and allows them to set a max distance
-- A fully functioning version of Clembot must be running on the server.
+- A fully functioning version of Clembot or Meowth Bot must be running on the server.
 - Python 3.5+ is required, the bot **will not** work on Python 2.
 - MySQL must be installed before continuing. I used MariaDB. https://downloads.mariadb.org/
 
