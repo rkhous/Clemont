@@ -20,11 +20,13 @@
 # Creating your config.py file
 - Open config.py in a text editor like Notepad++
 - cleambot_search_term should be left untouched. 
-- clembot_id is found by right-clicking Clembot and clicking 'Copy id'
+- clembot_id is found by right-clicking Clembot/Meowth and clicking 'Copy id'
+- If you can't find the copy id button, turn on developer mode in your settings.
 - Fill out the database information so the bot can connect to the database we created.
 - Your config.py file is now ready. 
 
 # Running Clemont!
+- Change the directory to your Clemont folder
 - To run Clemont, simply run the line below and you're ready to go. 
 -     python3 clemont.py
 - Run //commands to see a list of commands once the bot is live.
